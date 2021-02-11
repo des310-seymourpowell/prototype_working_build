@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "DES310_Ball_prototype",
+"productVersion": "0.1",
+"dataUrl": "prototype_working_build.data.unityweb",
+"wasmCodeUrl": "prototype_working_build.wasm.code.unityweb",
+"wasmFrameworkUrl": "prototype_working_build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.18f1"
+}
